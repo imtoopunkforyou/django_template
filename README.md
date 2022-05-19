@@ -1,6 +1,6 @@
 # Стэк
-Django(drf)
-Docker-compose: postgres, celery, redis, flower
+* Django(drf)
+* Docker-compose: postgres, celery, redis, flower
 
 # Введение
 TODO: кратко опишите проект. В этом разделе объясняются цели и задачи этого проекта. 
